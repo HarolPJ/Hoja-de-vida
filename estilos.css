@@ -1,0 +1,29 @@
+
+
+.Subtitulos {
+    font-weight: 700;
+font-size: 12px;
+line-height: 18px;
+
+
+}
+
+header {
+    background: #B7AD99;
+}
+
+.cuerpoHDV {
+    background: #C4C4C4;
+}
+
+.Foto {
+    /* Foto */
+
+
+position: absolute;
+width: 86px;
+height: 86px;
+left: 25px;
+top: 15px;
+}
+
